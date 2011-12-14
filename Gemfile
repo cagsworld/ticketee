@@ -2,7 +2,6 @@ source 'http://rubygems.org'
 
 gem 'rails', '>3.1.0'
 
-
 #gem 'rails' 'rails', '~> 3.1.3'
 # gem 'arel',      :git => 'git://github.com/rails/arel.git'
 gem 'rack'
@@ -50,4 +49,3 @@ end
 group :production do
   gem 'pg'
 end
-
